@@ -1,7 +1,10 @@
 <template>
   <div>
-    <Nav />
     <Header />
+    <Area />
+    <Conhecimento />
+    <Equipe />
+    <Footer />
   </div>
 </template>
 
