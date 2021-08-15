@@ -1,5 +1,5 @@
 <template>
-  <Cadastrar />
+  <Cadastro />
 </template>
 
 <script lang="ts">

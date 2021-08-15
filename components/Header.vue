@@ -179,7 +179,7 @@
                       transition
                       duration-200
                     "
-                    href="#"
+                    href="cadastro"
                     >Cadastrar-se</a
                   ><a
                     class="
