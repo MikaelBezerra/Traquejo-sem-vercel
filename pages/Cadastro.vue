@@ -1,8 +1,5 @@
 <template>
-  <div>
-    <Nav />
-    <Header />
-  </div>
+  <Cadastrar />
 </template>
 
 <script lang="ts">
