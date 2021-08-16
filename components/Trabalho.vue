@@ -122,11 +122,27 @@
                   "
                 ></div>
               </div>
+              <div class="px-10 py-3">
+                <button
+                  class="
+                    py-4
+                    px-4
+                    w-full
+                    bg-blue-500
+                    text-lg text-white
+                    rounded-lg
+                    hover:bg-blue-600
+                  "
+                  href="#"
+                  >
+                  Contratar
+                  </button>
+              </div>
             </div>
           </div>
         </div>
         <div class="w-full lg:w-1/3 p-4">
-          <div class="bg-whiteshadow rounded overflow-hidden">
+          <div class="bg-white shadow rounded overflow-hidden">
             <div class="pt-6 px-6 mb-10 flex justify-between items-center">
               <span
                 class="
@@ -245,11 +261,27 @@
                   "
                 ></div>
               </div>
+              <div class="px-10 py-3">
+                <button
+                  class="
+                    py-4
+                    px-4
+                    w-full
+                    bg-blue-500
+                    text-lg text-white
+                    rounded-lg
+                    hover:bg-blue-600
+                  "
+                  href="#"
+                  >
+                  Contratar
+                  </button>
+              </div>
             </div>
           </div>
         </div>
         <div class="w-full lg:w-1/3 p-4">
-          <div class="bg-whiteshadow rounded overflow-hidden">
+          <div class="bg-white shadow rounded overflow-hidden">
             <div class="pt-6 px-6 mb-10 flex justify-between items-center">
               <span
                 class="
@@ -369,6 +401,22 @@
                     bg-green-500
                   "
                 ></div>
+              </div>
+              <div class="px-10 py-3">
+                <button
+                  class="
+                    py-4
+                    px-4
+                    w-full
+                    bg-blue-500
+                    text-lg text-white
+                    rounded-lg
+                    hover:bg-blue-600
+                  "
+                  href="#"
+                  >
+                  Contratar
+                  </button>
               </div>
             </div>
           </div>
@@ -493,11 +541,27 @@
                   "
                 ></div>
               </div>
+              <div class="px-10 py-3">
+                <button
+                  class="
+                    py-4
+                    px-4
+                    w-full
+                    bg-blue-500
+                    text-lg text-white
+                    rounded-lg
+                    hover:bg-blue-600
+                  "
+                  href="#"
+                  >
+                  Contratar
+                  </button>
+              </div>
             </div>
           </div>
         </div>
         <div class="w-full lg:w-1/3 p-4">
-          <div class="bg-whiteshadow rounded overflow-hidden">
+          <div class="bg-white shadow rounded overflow-hidden">
             <div class="pt-6 px-6 mb-10 flex justify-between items-center">
               <span
                 class="
@@ -616,11 +680,27 @@
                   "
                 ></div>
               </div>
+              <div class="px-10 py-3">
+                <button
+                  class="
+                    py-4
+                    px-4
+                    w-full
+                    bg-blue-500
+                    text-lg text-white
+                    rounded-lg
+                    hover:bg-blue-600
+                  "
+                  href="#"
+                  >
+                  Contratar
+                  </button>
+              </div>
             </div>
           </div>
         </div>
         <div class="w-full lg:w-1/3 p-4">
-          <div class="bg-whiteshadow rounded overflow-hidden">
+          <div class="bg-white shadow rounded overflow-hidden">
             <div class="pt-6 px-6 mb-10 flex justify-between items-center">
               <span
                 class="
@@ -740,6 +820,22 @@
                     bg-red-600
                   "
                 ></div>
+              </div>
+              <div class="px-10 py-3">
+                <button
+                  class="
+                    py-4
+                    px-4
+                    w-full
+                    bg-blue-500
+                    text-lg text-white
+                    rounded-lg
+                    hover:bg-blue-600
+                  "
+                  href="#"
+                  >
+                  Contratar
+                  </button>
               </div>
             </div>
           </div>
