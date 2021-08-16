@@ -135,7 +135,7 @@
               />
               <div class="pl-4">
                 <p class="text-xl">Raiany</p>
-                <p class="text-blue-600">Role</p>
+                <p class="text-blue-600">Negocio</p>
               </div>
             </div>
             <p class="leading-loose text-blueGray-400">lorem</p>

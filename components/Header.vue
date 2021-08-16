@@ -71,7 +71,9 @@
           </svg>
         </li>
         <li>
-          <a class="text-sm text-gray-300 hover:text-white" href="#">Serviço</a>
+          <a class="text-sm text-gray-300 hover:text-white" href="servico"
+            >Serviço</a
+          >
         </li>
         <li class="text-gray-800">
           <svg
@@ -197,8 +199,9 @@
                       rounded-l-xl rounded-t-xl
                       transition
                       duration-200
+                      hover:bg-gray-600
                     "
-                    href="#"
+                    href="acesso"
                     >Acessar</a
                   >
                 </div>
@@ -276,7 +279,7 @@
         "
       >
         <div class="flex items-center mb-8">
-          <a class="mr-auto text-3xl font-bold leading-none" href="#"
+          <a class="mr-auto text-3xl font-bold leading-none" href="index"
             ><img
               src="https://static.shuffle.dev/uploads/files/d0/d04fba9b48bd8ec3d647db708ce5f108c20811ae/logo.png"
               alt="Tela inicial"
@@ -313,7 +316,7 @@
                   hover:text-purple-600
                   rounded
                 "
-                href="#"
+                href="index"
                 >Inicio</a
               >
             </li>
