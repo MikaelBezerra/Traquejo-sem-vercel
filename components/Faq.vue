@@ -6,9 +6,9 @@
                <span>Dúvidas Recorrentes</span>
             </h1>
          </div>
-         <div class="flex flex-wrap max-w-5xl mx-auto mb-6">
-            <div class="w-full md:w-1/2 px-3 mb-6">
-               <div class="w-full px-6">
+         <div class="flex flex-wrap max-w-5xl mx-auto mb-5">
+            <div class="w-full md:w-1/2 px-2 mb-5">
+               <div class="w-full px-2">
                   <p class="text-lg font-bold">Pergunta um</p>
                   <p>
                      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo officiis voluptatibus dolore laudantium 
@@ -17,8 +17,8 @@
                   </p>
                </div>
             </div>
-            <div class="w-full md:w-1/2 px-3 mb-6">
-               <div class="w-full px-6">
+            <div class="w-full md:w-1/2 px-2 mb-5">
+               <div class="w-full px-2">
                   <p class="text-lg font-bold">Pergunta dois</p>
                   <p>
                      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo officiis voluptatibus dolore laudantium 
@@ -27,8 +27,8 @@
                   </p>
                </div>
             </div>
-            <div class="w-full md:w-1/2 px-3 mb-6">
-               <div class="w-full px-6">
+            <div class="w-full md:w-1/2 px-2 mb-5">
+               <div class="w-full px-2">
                   <p class="text-lg font-bold">Pergunta tres</p>
                   <p>
                      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo officiis voluptatibus dolore laudantium 
@@ -37,8 +37,8 @@
                   </p>
                </div>
             </div>
-            <div class="w-full md:w-1/2 px-3 mb-6">
-               <div class="w-full px-6">
+            <div class="w-full md:w-1/2 px-2 mb-5">
+               <div class="w-full px-2">
                   <p class="text-lg font-bold">Pergunta quatro</p>
                   <p>
                      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo officiis voluptatibus dolore laudantium 
