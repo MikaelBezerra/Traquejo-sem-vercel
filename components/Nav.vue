@@ -1,6 +1,6 @@
 
-<template>
-  <section class="py-5 px-6 bg-colors-background-primary shadow">
+<template class="s">
+  <section class="py-5 px-6 bg-background-primary shadow">
     <nav class="relative">
       <div class="flex items-center">
         <div class="hidden lg:flex items-center mr-auto focus:border-red-600">
@@ -28,7 +28,7 @@
           <input
             class="pl-2 py-3 text-md text-gray-500 focus:outline-none"
             type="text"
-            placeholder="Type to search..."
+            placeholder="Procurar..."
           />
         </div>
         <div class="flex w-full justify-end lg:hidden">

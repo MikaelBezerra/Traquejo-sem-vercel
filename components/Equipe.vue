@@ -2,6 +2,7 @@
   <section
     class="py-20 xl:bg-contain bg-top bg-no-repeat"
     style="background-image: url('metis-assets/backgrounds/intersect.svg')"
+    id="equipe"
   >
     <div class="container px-4 mx-auto">
       <div class="max-w-lg mx-auto mb-12 text-center">

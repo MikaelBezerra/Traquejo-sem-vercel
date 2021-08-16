@@ -166,7 +166,7 @@
             <div class="p-6 bg-lightGray-50">
               <div class="flex -mx-2 mb-6">
                 <div class="w-1/2 px-2">
-                  <p class="mb-2 text-xs font-medium">Postageem</p>
+                  <p class="mb-2 text-xs font-medium">Postagem</p>
                   <span
                     class="
                       inline-block
@@ -291,7 +291,7 @@
             <div class="p-6 bg-lightGray-50">
               <div class="flex -mx-2 mb-6">
                 <div class="w-1/2 px-2">
-                  <p class="mb-2 text-xs font-medium">Postageem</p>
+                  <p class="mb-2 text-xs font-medium">Postagem</p>
                   <span
                     class="
                       inline-block

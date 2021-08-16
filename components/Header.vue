@@ -53,7 +53,7 @@
             ></path>
           </svg>
         </li>
-        <li><a class="text-sm text-white font-bold" href="#">Conhecer</a></li>
+        <li><a class="text-sm text-white font-bold" href="#about">Conhecer</a></li>
         <li class="text-gray-800">
           <svg
             class="w-4 h-4 current-fill"
@@ -113,7 +113,7 @@
           </svg>
         </li>
         <li>
-          <a class="text-sm text-gray-300 hover:text-white" href="#">Função</a>
+          <a class="text-sm text-gray-300 hover:text-white" href="#equipe">Função</a>
         </li>
       </ul>
       <a
@@ -199,7 +199,6 @@
                       rounded-l-xl rounded-t-xl
                       transition
                       duration-200
-                      hover:bg-gray-600
                     "
                     href="acesso"
                     >Acessar</a
@@ -279,7 +278,7 @@
         "
       >
         <div class="flex items-center mb-8">
-          <a class="mr-auto text-3xl font-bold leading-none" href="index"
+          <a class="mr-auto text-3xl font-bold leading-none" href=""
             ><img
               src="https://static.shuffle.dev/uploads/files/d0/d04fba9b48bd8ec3d647db708ce5f108c20811ae/logo.png"
               alt="Tela inicial"

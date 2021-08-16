@@ -18,7 +18,7 @@
         <polygon fill="currentColor" points="0 10 10 0 10 10"></polygon>
       </svg>
     </div>
-    <div class="py-20 bg-gray-900 radius-for-skewed">
+    <div class="py-20 bg-gray-900 radius-for-skewed" id="about">
       <div class="container mx-auto px-4">
         <div class="flex flex-wrap items-center">
           <div class="w-full lg:w-1/2 mb-12 lg:mb-0">

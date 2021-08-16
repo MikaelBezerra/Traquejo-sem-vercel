@@ -1,11 +1,16 @@
-module.exports = { 
-   darkMode: 'media',
-
-
-colors: {
-   background: { 
-      'primary': '#FF0000',
-   }
-}
-
+module.exports = {
+  purge: [],
+  darkMode: 'media', 
+  theme: {
+    extend: {},
+  },
+  colors: {
+    background: { 
+       'primary': '#FF0000',
+    }
+  },
+  variants: {
+    extend: {},
+  },
+  plugins: [],
 }
