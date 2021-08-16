@@ -1,5 +1,8 @@
 <template>
-  <Cadastro />
+  <div>
+    <Cadastro />
+    <Footer />
+  </div>
 </template>
 
 <script lang="ts">
