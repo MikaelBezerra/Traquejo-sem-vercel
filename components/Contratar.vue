@@ -1,9 +1,9 @@
 <template>
-   <div class="pt-20 px-20 grid grid-cols-2 h-screen w-auto bg-blue-900">
+   <div class="pt-20 px-20 grid grid-cols-2 h-screen w-auto ">
       <div class="px-20">
-         oi
+         <Carrousel/>
       </div>
-      <div class="px-20">
+      <div class="px-20 ">
          oi
       </div>
    </div>

@@ -6,7 +6,7 @@ module.exports = {
   },
   colors: {
     background: { 
-       'primary': '#FF0000',
+       'primary': '#808080',
     }
   },
   variants: {

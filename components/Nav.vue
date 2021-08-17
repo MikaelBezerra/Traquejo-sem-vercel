@@ -1,6 +1,6 @@
 
 <template class="s">
-  <section class="py-5 px-6 bg-background-primary shadow">
+  <section class="py-5 px-6 bg-gray-900 shadow">
     <nav class="relative">
       <div class="flex items-center">
         <div class="w-20">
@@ -11,8 +11,8 @@
             class="
               mr-2
               text-gray-200
-              hover:text-purple-600
-              focus:text-purple-600
+              hover:text-gray-400
+              focus:text-gray-400
             "
           >
             <svg
@@ -29,7 +29,7 @@
             </svg>
           </button>
           <input
-            class="pl-2 py-3 text-md text-gray-500 focus:outline-none"
+            class="pl-2 py-3 text-md bg-gray-800 text-gray-500 focus:outline-none"
             type="text"
             placeholder="Procurar..."
           />
@@ -49,7 +49,7 @@
         </div>
         <ul class="hidden lg:flex items-center space-x-6 mr-6">
           <li>
-            <a class="text-gray-200 hover:text-purple-600" href="#">
+            <a class="text-gray-200 hover:text-gray-400" href="#" >
               <svg
                 class="h-5 w-5"
                 viewBox="0 0 18 20"
@@ -64,7 +64,7 @@
             </a>
           </li>
           <li>
-            <a class="text-gray-200 hover:text-purple-600" href="#">
+            <a class="text-gray-200 hover:text-gray-400" href="#">
               <svg
                 class="h-5 w-5"
                 viewBox="0 0 16 20"
@@ -83,7 +83,7 @@
         <div class="hidden lg:block">
           <button class="flex items-center">
             <div class="mr-3">
-              <p class="text-sm">Thomas Brown</p>
+              <p class="text-sm text-white">Thomas Brown</p>
               <p class="text-sm text-gray-500">Developer</p>
             </div>
             <div class="mr-2">
