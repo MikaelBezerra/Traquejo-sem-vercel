@@ -133,7 +133,7 @@
                     rounded-lg
                     hover:bg-blue-600
                   "
-                  href="#"
+                  href="contratar"
                   >
                   Contratar
                   </button>
@@ -272,7 +272,7 @@
                     rounded-lg
                     hover:bg-blue-600
                   "
-                  href="#"
+                  href="contratar"
                   >
                   Contratar
                   </button>
@@ -413,7 +413,7 @@
                     rounded-lg
                     hover:bg-blue-600
                   "
-                  href="#"
+                  href="contratar"
                   >
                   Contratar
                   </button>
@@ -552,7 +552,7 @@
                     rounded-lg
                     hover:bg-blue-600
                   "
-                  href="#"
+                  href="contratar"
                   >
                   Contratar
                   </button>
@@ -691,7 +691,7 @@
                     rounded-lg
                     hover:bg-blue-600
                   "
-                  href="#"
+                  href="contratar"
                   >
                   Contratar
                   </button>
@@ -822,7 +822,7 @@
                 ></div>
               </div>
               <div class="px-10 py-3">
-                <button
+                <button form="cadastrar"
                   class="
                     py-4
                     px-4
@@ -832,7 +832,7 @@
                     rounded-lg
                     hover:bg-blue-600
                   "
-                  href="#"
+                  href="contratar"
                   >
                   Contratar
                   </button>

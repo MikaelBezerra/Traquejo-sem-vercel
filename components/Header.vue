@@ -4,7 +4,7 @@
       class="relative px-6 py-6 flex justify-between items-center bg-gray-900"
     >
       <a class="text-white text-3xl font-bold leading-none" href="#"
-        ><img src="logo.png" alt="Tela inicial" width="70"
+        ><img src="logo.png" alt="Tela inicial" class="w-20"
       /></a>
       <div class="lg:hidden">
         <button class="navbar-burger flex items-center text-white p-3">

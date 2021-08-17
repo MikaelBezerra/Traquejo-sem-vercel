@@ -3,6 +3,9 @@
   <section class="py-5 px-6 bg-background-primary shadow">
     <nav class="relative">
       <div class="flex items-center">
+        <div class="w-20">
+          <img src="logo.png" alt="">
+        </div>
         <div class="hidden lg:flex items-center mr-auto focus:border-red-600">
           <button
             class="

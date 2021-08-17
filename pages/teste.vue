@@ -1,5 +1,7 @@
 <template>
-   <div>
-   <Faq/>
+   <div class="flex justify-center">
+   <Drop/>
+   
+   <!-- <Faq/> -->
    </div>
 </template>
