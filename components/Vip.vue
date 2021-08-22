@@ -1,9 +1,10 @@
 <template>
-   <div class=" grid grid-rows-3 px-2 text-white 2xl:p-20 ">
+   <div class=" grid grid-rows-3 px-2 text-white 2xl:p-20">
+      <div class="bg-gray-600">
       <!-- Preços -->
       <div class="grid grid-cols-3">
          <!-- primeiro preço -->
-         <div class=" w-full h-full grid justify-items-stretch">
+         <button class=" w-full h-full grid justify-items-stretch hover:bg-gray-700">
             <div class="shadow-lg grid justify-items-stretch p-4">
                <div class="justify-self-center">
                   <p class="font-bold ">Texto de cima kkk lol</p>
@@ -12,9 +13,9 @@
                   <p class="font-bold text-3xl">1 Zilion/sec</p>
                </div>
             </div>
-         </div>
+         </button>
          <!-- segundo preço -->
-         <div class="w-full h-full grid justify-items-stretch">
+         <button class="w-full h-full grid justify-items-stretch hover:bg-gray-700">
             <div class="shadow-lg grid justify-items-stretch p-4">
                <div class="justify-self-center">
                   <p class="font-bold ">Texto de cima kkk lol</p>
@@ -23,9 +24,9 @@
                   <p class="font-bold text-3xl">1 Zilion/sec</p>
                </div>
             </div>
-         </div >
+         </button >
          <!-- terceiro preço -->
-         <div class="w-full h-full grid justify-items-stretch">
+         <button class="w-full h-full grid justify-items-stretch hover:bg-gray-700">
             <div class="shadow-lg grid justify-items-stretch p-4">
                <div class="justify-self-center">
                   <p class="font-bold ">Texto de cima kkk lol</p>
@@ -34,10 +35,10 @@
                   <p class="font-bold text-3xl">1 Zilion/sec</p>
                </div>
             </div>
-         </div>
+         </button>
       </div>
       <!-- conteudo de las promociones -->    
-      <div class="grid grid-cols-3 shadow-lg">
+      <div class="grid grid-cols-3">
          <!--  primeira coluna de promocines -->
          <div class="mt-12 justify-self-center ">
             <ul class="">
@@ -127,11 +128,32 @@
          </div>
       </div>
       <!-- contratar pacotes-->
-      <div class="border-8">
-         <div>
+      <div class="grid grid-cols-3 justify-items-center">
             <!-- contratar primeiro pacote-->
+            <div class="p-5">
+               <button class="bg-green-700 hover:bg-green-800 px-8 p-2 rounded-lg">
+                  <p>
+                     Contratar
+                  </p>
+               </button>
+                  
+            </div>
+            <div class="p-5">
+               <button class="bg-green-700 hover:bg-green-800 px-8 p-2 rounded-lg">
+                  <p>
+                     Contratar
+                  </p>
+               </button>
+            </div>
+            <div class="p-5">
+               <button class="bg-green-700 hover:bg-green-800 px-8 p-2 rounded-lg">
+                  <p>
+                     Contratar
+                  </p>
+               </button>
+         </div>
          </div>
       </div>
-   <BtnChat/>
+      
    </div>
 </template>  
