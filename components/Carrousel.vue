@@ -26,3 +26,12 @@
       scroll-snap-align: start;
    }
 </style>
+
+<script>
+function foi (){
+      document.querySelector("#item")
+      .addEventListener("wheel", event => {
+         console.log(event)
+      })
+}
+</script>
