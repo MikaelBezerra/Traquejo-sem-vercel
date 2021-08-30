@@ -7,10 +7,10 @@
          <button class=" w-full h-full grid justify-items-stretch hover:bg-gray-700">
             <div class="shadow-lg grid justify-items-stretch p-4">
                <div class="justify-self-center">
-                  <p class="font-bold ">Texto de cima kkk lol</p>
+                  <p class="font-bold ">Basíco</p>
                </div>
                <div class="justify-self-center">
-                  <p class="font-bold text-3xl">1 Zilion/sec</p>
+                  <p class="font-bold text-3xl">Preço</p>
                </div>
             </div>
          </button>
@@ -18,10 +18,10 @@
          <button class="w-full h-full grid justify-items-stretch hover:bg-gray-700">
             <div class="shadow-lg grid justify-items-stretch p-4">
                <div class="justify-self-center">
-                  <p class="font-bold ">Texto de cima kkk lol</p>
+                  <p class="font-bold ">Médio</p>
                </div>
                <div class="justify-self-center">
-                  <p class="font-bold text-3xl">1 Zilion/sec</p>
+                  <p class="font-bold text-3xl">Preço</p>
                </div>
             </div>
          </button >
@@ -29,10 +29,10 @@
          <button class="w-full h-full grid justify-items-stretch hover:bg-gray-700">
             <div class="shadow-lg grid justify-items-stretch p-4">
                <div class="justify-self-center">
-                  <p class="font-bold ">Texto de cima kkk lol</p>
+                  <p class="font-bold ">Avançado</p>
                </div>
                <div class="justify-self-center">
-                  <p class="font-bold text-3xl">1 Zilion/sec</p>
+                  <p class="font-bold text-3xl">Preço</p>
                </div>
             </div>
          </button>
@@ -47,7 +47,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="text-green-500 h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
-                  <li class="p-2 ">Desvantagem 1  
+                  <li class="p-2 ">Vantagem 1  
                   </li>             
                </div>
                <!-- segunda vantagem-->  
@@ -55,7 +55,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="text-green-500 h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
-                  <li class="p-2 ">Desvantagem 2
+                  <li class="p-2 ">Vantagem 2
                   </li>             
                </div>
                <!-- terceira vantagem-->
@@ -63,7 +63,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="text-green-500 h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
-                  <li class="p-2 ">Desvantagem 3  
+                  <li class="p-2 ">Vantagem 3  
                   </li>             
                </div>
             </ul>
@@ -76,7 +76,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="text-green-500 h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
-                  <li class="p-2 ">Desvantagem 1  
+                  <li class="p-2 ">Vantagem 1  
                   </li>             
                </div> 
                <!-- segunda vantagem-->
@@ -84,7 +84,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="text-green-500 h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
-                  <li class="p-2 ">Desvantagem 1  
+                  <li class="p-2 ">Vantagem 2  
                   </li>             
                </div>
                <!-- terceira vantagem-->
@@ -92,7 +92,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="text-green-500 h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
-                  <li class="p-2 ">Desvantagem 1  
+                  <li class="p-2 ">Vantagem 3
                   </li>             
                </div>
             </ul>
@@ -105,7 +105,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="text-green-500 h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
-                  <li class="p-2 ">Desvantagem 1  
+                  <li class="p-2 ">Vantagem 1  
                   </li>             
                </div> 
                <!-- segunda vantagem-->
@@ -113,7 +113,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="text-green-500 h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
-                  <li class="p-2 ">Desvantagem 1  
+                  <li class="p-2 ">Vantagem 2
                   </li>             
                </div>
                <!-- terceira vantagem-->
@@ -121,7 +121,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="text-green-500 h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
-                  <li class="p-2 ">Desvantagem 1  
+                  <li class="p-2 ">Vantagem 3  
                   </li>             
                </div>
             </ul>
