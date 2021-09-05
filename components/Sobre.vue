@@ -1,4 +1,0 @@
-<!-- aooooo amuriiii --> 
-<template>
-   
-</template>

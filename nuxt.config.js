@@ -36,53 +36,7 @@ export default {
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  // modules: [
-  //   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  //   [
-  //     '@nuxtjs/firebase',
-  //     {
-  //       config: {
-  //       apiKey: "AIzaSyAYqE3qdeZA4AM3shEB-YJPfLsJwSqp0bY",
-  //       authDomain: "traquejo-13545.firebaseapp.com",
-  //       projectId: "traquejo-13545",
-  //       storageBucket: "traquejo-13545.appspot.com",
-  //       messagingSenderId: "1042933009188",
-  //       appId: "1:1042933009188:web:9ea93c16758d0bb22f41b1",
-  //       measurementId: "G-V0QMS4WH4W"
-  //       },
-  //     }
-  //   ]
-  // ],
-  // services: {
-  //   auth: {
-  //     persistence: 'local', // default
-  //     initialize: {
-  //       onAuthStateChangedMutation: 'ON_AUTH_STATE_CHANGED_MUTATION',
-  //       onAuthStateChangedAction: 'onAuthStateChangedAction',
-  //       subscribeManually: false
-  //     },
-  //     ssr: false, 
-  //   }
-  // },
-  modules: [
-    [
-      '@nuxtjs/firebase',
-      {
-        config: {
-        apiKey: "AIzaSyAYqE3qdeZA4AM3shEB-YJPfLsJwSqp0bY",
-        authDomain: "traquejo-13545.firebaseapp.com",
-        projectId: "traquejo-13545",
-        storageBucket: "traquejo-13545.appspot.com",
-        messagingSenderId: "1042933009188",
-        appId: "1:1042933009188:web:9ea93c16758d0bb22f41b1",
-        measurementId: "G-V0QMS4WH4W"
-        },
-        services: {
-          auth: true // Just as example. Can be any other service.
-        }
-      }
-    ]
-  ],
+
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
