@@ -1,7 +1,10 @@
 <template>
-   <div>
-      <Nav/>
-      <Contratar/>
-      <Footer/>
-   </div>
+  <div>
+    <Nav />
+    <CarrouselT />
+    <Info />
+    <Planos />
+    <BtnChat />
+    <Footer />
+  </div>
 </template>

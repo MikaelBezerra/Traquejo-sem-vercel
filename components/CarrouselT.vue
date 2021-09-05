@@ -1,96 +1,326 @@
 <template>
-   <div>
-      <div id="carrousel" class="w-800 h-500 overflow-hidden">
-         <div id="carrousel-itens" class="flex ">
-            <!-- Inicio dos botões-->
-            <!-- Vai precisar ser mudado mais tarde para se adequar ao numero de slides-->
-            <input type="radio" name="btn-radio" id="radio1">
-            <input type="radio" name="btn-radio" id="radio2">
-            <input type="radio" name="btn-radio" id="radio3">
-            <input type="radio" name="btn-radio" id="radio4">
+  <div
+    class="
+      w-full
+      h-auto
+      carousel
+      relative
+      rounded
+      relative
+      overflow-hidden
+      shadow-xl
+    "
+  >
+    <div class="carousel-inner relative overflow-hidden w-full">
+      <!--Slide 1-->
+      <input
+        id="carousel-1"
+        class="carousel-open"
+        type="radio"
+        name="carousel"
+        aria-hidden="true"
+        hidden=""
+        checked="checked"
+      />
+      <div
+        class="carousel-item absolute opacity-0 bg-center"
+        style="
+          height: 500px;
+          background-image: url(https://mdbootstrap.com/img/new/slides/052.jpg);
+        "
+      ></div>
+      <label
+        for="carousel-3"
+        class="
+          control-1
+          w-10
+          h-10
+          ml-2
+          md:ml-10
+          absolute
+          cursor-pointer
+          hidden
+          font-bold
+          text-black
+          hover:text-gray-800
+          rounded-full
+          bg-white
+          border-2 border-gray-800
+          hover:bg-purple-700
+          leading-tight
+          text-center
+          z-10
+          inset-y-0
+          left-0
+          my-auto
+          flex
+          justify-center
+          content-center
+        "
+        ><i class="fas fa-angle-left mt-3"></i
+      ></label>
+      <label
+        for="carousel-2"
+        class="
+          next
+          control-1
+          w-10
+          h-10
+          mr-2
+          md:mr-10
+          absolute
+          cursor-pointer
+          hidden
+          font-bold
+          text-black
+          hover:text-gray-800
+          rounded-full
+          bg-white
+          border-2 border-gray-800
+          hover:bg-purple-700
+          leading-tight
+          text-center
+          z-10
+          inset-y-0
+          right-0
+          my-auto
+        "
+        ><i class="fas fa-angle-right mt-3"></i
+      ></label>
 
-            <div id="div-img" class="first">
-               <img class="w-full h-full object-cover"  src="https://images.unsplash.com/photo-1422303289886-00d1f7710118?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80" alt="">
-            </div>
-            <div id="div-img">
-               <img class="w-full h-full object-cover"  src="https://images.unsplash.com/photo-1422112528461-3186878f87dc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80" alt="">
-            </div>
-            <div id="div-img">
-               <img class="w-full h-full object-cover"  src="https://images.unsplash.com/photo-1592337283075-215253227066?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="">
-            </div>
-            <div id="div-img">
-               <img class="w-full h-full object-cover"  src="https://images.unsplash.com/photo-1598624669900-ee1be9f81e23?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1065&q=80" alt="">
-            </div>
+      <!--Slide 2-->
+      <input
+        id="carousel-2"
+        class="carousel-open"
+        type="radio"
+        name="carousel"
+        aria-hidden="true"
+        hidden=""
+      />
+      <div
+        class="carousel-item absolute opacity-0 bg-center"
+        style="
+          height: 500px;
+          background-image: url(https://mdbootstrap.com/img/new/slides/043.jpg);
+        "
+      ></div>
+      <label
+        for="carousel-1"
+        class="
+          control-2
+          w-10
+          h-10
+          ml-2
+          md:ml-10
+          absolute
+          cursor-pointer
+          hidden
+          font-bold
+          text-black
+          hover:text-gray-800
+          rounded-full
+          bg-white
+          border-2 border-gray-800
+          hover:bg-purple-700
+          leading-tight
+          text-center
+          z-10
+          inset-y-0
+          left-0
+          my-auto
+        "
+        ><i class="fas fa-angle-left mt-3"></i
+      ></label>
+      <label
+        for="carousel-3"
+        class="
+          next
+          control-2
+          w-10
+          h-10
+          mr-2
+          md:mr-10
+          absolute
+          cursor-pointer
+          hidden
+          font-bold
+          text-black
+          hover:text-gray-800
+          rounded-full
+          bg-white
+          border-2 border-gray-800
+          hover:bg-purple-700
+          leading-tight
+          text-center
+          z-10
+          inset-y-0
+          right-0
+          my-auto
+        "
+        ><i class="fas fa-angle-right mt-3"></i
+      ></label>
 
-            <!-- Navegacao automata-->
-            <div id="btn-auto1"></div>
-            <div id="btn-auto2"></div>
-            <div id="btn-auto3"></div>
-            <div id="btn-auto4"></div>
+      <!--Slide 3-->
+      <input
+        id="carousel-3"
+        class="carousel-open"
+        type="radio"
+        name="carousel"
+        aria-hidden="true"
+        hidden=""
+      />
+      <div
+        class="carousel-item absolute opacity-0"
+        style="
+          height: 500px;
+          background-image: url(https://mdbootstrap.com/img/new/slides/054.jpg);
+        "
+      ></div>
+      <label
+        for="carousel-2"
+        class="
+          control-3
+          w-10
+          h-10
+          ml-2
+          md:ml-10
+          absolute
+          cursor-pointer
+          hidden
+          font-bold
+          text-black
+          hover:text-gray-800
+          rounded-full
+          bg-white
+          border-2 border-gray-800
+          hover:bg-purple-700
+          leading-tight
+          text-center
+          z-10
+          inset-y-0
+          left-0
+          my-auto
+        "
+        ><i class="fas fa-angle-left mt-3"></i
+      ></label>
+      <label
+        for="carousel-1"
+        class="
+          next
+          control-3
+          w-10
+          h-10
+          mr-2
+          md:mr-10
+          absolute
+          cursor-pointer
+          hidden
+          font-bold
+          text-black
+          hover:text-gray-800
+          rounded-full
+          bg-white
+          border-2 border-gray-800
+          hover:bg-purple-700
+          leading-tight
+          text-center
+          z-10
+          inset-y-0
+          right-0
+          my-auto
+        "
+        ><i class="fas fa-angle-right mt-3"></i
+      ></label>
 
-            <!-- Navegacao manuel-->  
-         </div> 
-
-         <div id="nav-manuel" class="flex absolute">
-            <label for="radio1" id="btn-manuel"></label>
-            <label for="radio2" id="btn-manuel"></label>
-            <label for="radio3" id="btn-manuel"></label>
-            <label for="radio4" id="btn-manuel"></label>
-         </div>
-      </div>
-   </div>
-      
+      <ol class="carousel-indicators">
+        <li class="inline-block mr-3">
+          <label
+            for="carousel-1"
+            class="
+              carousel-bullet
+              cursor-pointer
+              block
+              text-4xl text-white
+              hover:text-purple-700
+            "
+            >•</label
+          >
+        </li>
+        <li class="inline-block mr-3">
+          <label
+            for="carousel-2"
+            class="
+              carousel-bullet
+              cursor-pointer
+              block
+              text-4xl text-white
+              hover:text-purple-700
+            "
+            >•</label
+          >
+        </li>
+        <li class="inline-block mr-3">
+          <label
+            for="carousel-3"
+            class="
+              carousel-bullet
+              cursor-pointer
+              block
+              text-4xl text-white
+              hover:text-purple-700
+            "
+            >•</label
+          >
+        </li>
+      </ol>
+    </div>
+  </div>
 </template>
+
 <style>
-   #carrousel-itens{
-      width: 500%;
-      height: 500px;  
-   }
+.carousel-open:checked + .carousel-item {
+  position: static;
+  opacity: 100;
+}
 
-   #carrousel-itens input{
-      display: none;
-   }
+.carousel-item {
+  -webkit-transition: opacity 0.6s ease-out;
+  transition: opacity 0.6s ease-out;
+}
 
-   #div-img{
-      width: 20%;
-      transition: 0.8s;
-   }
+#carousel-1:checked ~ .control-1,
+#carousel-2:checked ~ .control-2,
+#carousel-3:checked ~ .control-3 {
+  display: block;
+}
 
-   #nav-manuel{
-      width:800px;
-      margin-top:-40px;
-      justify-content: center;
-   }
+.carousel-indicators {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  bottom: 2%;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 10;
+}
 
-   #btn-manuel{
-      border: 2px solid white; 
-      padding: 5px; 
-      border-radius: 10px;
-      transition: 0.2s; 
-   }
-
-   #btn-manuel:not(:last-child){
-      margin-right: 40px
-   }
-
-   #btn-manuel:hover{
-      background: white;
-   }
-
-   #radio1:checked ~ .first{
-      margin-left: 0;
-   }
-
-   #radio2:checked ~ .first{
-      margin-left: -20%;
-   }
-
-   #radio3:checked ~ .first{
-      margin-left: -40%;
-   }
-
-   #radio4:checked ~ .first{
-      margin-left: -60%;
-   }
-
+#carousel-1:checked
+  ~ .control-1
+  ~ .carousel-indicators
+  li:nth-child(1)
+  .carousel-bullet,
+#carousel-2:checked
+  ~ .control-2
+  ~ .carousel-indicators
+  li:nth-child(2)
+  .carousel-bullet,
+#carousel-3:checked
+  ~ .control-3
+  ~ .carousel-indicators
+  li:nth-child(3)
+  .carousel-bullet {
+  color: #df1f95;
+}
 </style>

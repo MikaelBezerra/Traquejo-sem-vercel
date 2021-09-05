@@ -18,8 +18,7 @@
                 mb-4
                 bg-white
                 rounded-lg
-                focus:border-purple-600
-                focus:outline-none
+                focus:border-purple-600 focus:outline-none
               "
               type="email"
               placeholder="Endereço de Email"
@@ -33,8 +32,7 @@
                 mb-4
                 bg-white
                 rounded-lg
-                focus:border-purple-600
-                focus:outline-none
+                focus:border-purple-600 focus:outline-none
               "
               type="password"
               placeholder="Senha"
@@ -49,8 +47,7 @@
                 mb-4
                 bg-white
                 rounded-lg
-                focus:border-purple-600
-                focus:outline-none
+                focus:border-purple-600 focus:outline-none
               "
               type="password"
               placeholder="Confirmar senha"
