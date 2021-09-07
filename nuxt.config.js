@@ -20,6 +20,12 @@ export default {
   css: [
   ],
 
+  modules: ['@nuxtjs/strapi'],
+  strapi: {
+    entities: ['Users'],
+    url: 'http://localhost:1337'
+  },
+ 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
   ],

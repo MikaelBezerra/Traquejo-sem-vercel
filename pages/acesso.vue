@@ -5,8 +5,15 @@
   </div>
 </template>
 
-<script lang="ts">
-import Vue from 'vue'
+<script>
 
-export default Vue.extend({})
+async function oi(){
+  try {
+    await this.$strapi.find('Users');
+  } catch (error) {
+    console.error(error);
+  }
+}
+export default oi()
+
 </script>

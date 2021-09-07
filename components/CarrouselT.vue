@@ -2,7 +2,7 @@
   <div
     class="
       w-full
-      h-auto
+      h-96
       carousel
       relative
       rounded
