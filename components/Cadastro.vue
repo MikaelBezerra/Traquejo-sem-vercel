@@ -9,6 +9,21 @@
               >Cadastrar</span
             >
             <h3 class="mb-8 text-2xl font-bold font-heading">Criar Conta</h3>
+            
+            <input
+              class="
+                border-2 border-transparent
+                w-full
+                py-3
+                pl-3
+                mb-4
+                bg-white
+                rounded-lg
+                focus:border-purple-600 focus:outline-none
+              "
+              type="name"
+              placeholder="Nome do Usuário"
+            />
             <input
               class="
                 border-2 border-transparent
