@@ -31,7 +31,7 @@ export default {
   ],
 
   generate: {
-    dir: 'public'
+    dir: 'index.vue'
   },
 
   // Auto import components: https://go.nuxtjs.dev/config-components
