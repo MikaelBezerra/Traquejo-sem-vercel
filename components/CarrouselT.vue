@@ -1,15 +1,6 @@
 <template>
   <div
-    class="
-      w-full
-      h-96
-      carousel
-      relative
-      rounded
-      relative
-      overflow-hidden
-      shadow-xl
-    "
+    class="w-screen h-96 carousel relative rounded overflow-hidden shadow-xl"
   >
     <div class="carousel-inner relative overflow-hidden w-full">
       <!--Slide 1-->

@@ -30,7 +30,7 @@
                   text-xs text-indigo-500
                   rounded-full
                 "
-                href="#"
+                href="contratar"
                 >Back-End</a
               >
             </div>

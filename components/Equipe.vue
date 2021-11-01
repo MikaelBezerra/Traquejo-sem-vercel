@@ -19,7 +19,7 @@
             <div class="flex items-center mb-4">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://images.unsplash.com/photo-1556474835-b0f3ac40d4d1?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60"
+                src="mikael.jpeg"
                 alt=""
               />
               <div class="pl-4">
@@ -35,7 +35,7 @@
             <div class="flex items-center mb-4">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60"
+                src="paulada.jpeg"
                 alt=""
               />
               <div class="pl-4">
@@ -51,7 +51,7 @@
             <div class="flex items-center mb-4">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://images.unsplash.com/photo-1584308972272-9e4e7685e80f?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60"
+                src="alice.jpeg"
                 alt=""
               />
               <div class="pl-4">
@@ -67,7 +67,7 @@
             <div class="flex items-center mb-4">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://images.unsplash.com/photo-1556474835-b0f3ac40d4d1?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60"
+                src="isis.jpeg"
                 alt=""
               />
               <div class="pl-4">
@@ -83,7 +83,7 @@
             <div class="flex items-center mb-4">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://images.unsplash.com/photo-1556474835-b0f3ac40d4d1?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60"
+                src="soseiquenadasei.jpeg"
                 alt=""
               />
               <div class="pl-4">
@@ -99,7 +99,7 @@
             <div class="flex items-center mb-4">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60"
+                src="playertauz.jpeg "
                 alt=""
               />
               <div class="pl-4">
@@ -115,7 +115,7 @@
             <div class="flex items-center mb-4">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://images.unsplash.com/photo-1556474835-b0f3ac40d4d1?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60"
+                src="careca.jpeg"
                 alt=""
               />
               <div class="pl-4">
@@ -131,7 +131,7 @@
             <div class="flex items-center mb-4">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="https://images.unsplash.com/photo-1584308972272-9e4e7685e80f?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60"
+                src="raiany.jpeg"
                 alt=""
               />
               <div class="pl-4">

@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section class="py-6 overflow-hidden">
     <div class="skew skew-top mr-for-radius">
       <svg
         class="h-8 md:h-12 lg:h-20 w-full text-gray-900"

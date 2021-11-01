@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="p-5 max-h-96">
     <h1
       class="
         py-3
