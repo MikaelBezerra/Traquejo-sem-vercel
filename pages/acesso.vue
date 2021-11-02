@@ -1,7 +1,7 @@
 <template>
   <div>
     <Acesso />
-    <Footer />
+    <Footer /> 
   </div>
 </template>
 
