@@ -1,0 +1,33 @@
+ <template>
+  <section class="text-center relative w-screen h-12 py-4 ">
+    <div class="inline-block py-1 px-1 bg-gray-500 rounded-lg">
+      <button
+        class="
+          mr-1
+          text-sm
+          py-2
+          px-4
+          text-gray-200
+          hover:text-blue-200
+          font-bold
+        "
+      >
+        Proficional
+      </button>
+      <button
+        class="
+          text-sm
+          py-2
+          px-4
+          text-white
+          bg-blue-600
+          rounded-lg
+          shadow-md
+          font-bold
+        "
+      >
+        Iniciante
+      </button>
+    </div>
+  </section>
+</template>

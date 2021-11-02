@@ -19,7 +19,7 @@
             <div class="flex items-center mb-4">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="mikael.jpeg"
+                src="https://github.com/MikaelBezerra.png"
                 alt=""
               />
               <div class="pl-4">
@@ -35,7 +35,7 @@
             <div class="flex items-center mb-4">
               <img
                 class="h-16 w-16 rounded-full object-cover"
-                src="paulada.jpeg"
+                src="https://github.com/PauloCalletti.png"
                 alt=""
               />
               <div class="pl-4">

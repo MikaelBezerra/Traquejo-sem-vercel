@@ -83,7 +83,7 @@
         <div class="hidden lg:block">
           <button class="flex items-center">
             <div class="mr-3">
-              <p class="text-sm text-white">Thomas Brown</p>
+              <p class="text-sm text-white"> <a href="perfil">Thomas Brown</a></p>
               <p class="text-sm text-gray-500">Developer</p>
             </div>
             <div class="mr-2">

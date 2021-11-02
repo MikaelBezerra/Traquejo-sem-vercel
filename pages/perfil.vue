@@ -1,0 +1,3 @@
+<template>
+    <Perfil-User />
+</template>
