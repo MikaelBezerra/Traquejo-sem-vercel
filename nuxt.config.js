@@ -1,9 +1,9 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'traquejo',
+    title: 'Traquejo',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'pt-br'
     },
     meta: [
       { charset: 'utf-8' },
@@ -19,20 +19,10 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
   ],
-
-  modules: ['@nuxtjs/strapi'],
-  strapi: {
-    entities: ['Users'],
-    url: 'http://localhost:1337'
-  },
  
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
   ],
-
-  generate: {
-    dir: 'index.vue'
-  },
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
